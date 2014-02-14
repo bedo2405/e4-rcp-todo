@@ -55,6 +55,10 @@
   <handlers xmi:id="_Whr70JU1EeO1qdc5Twk7FQ" elementId="com.example.e4.rcp.todo.handler.new" contributionURI="bundleclass://com.example.e4.rcp.todo/com.example.e4.rcp.todo.handlers.NewTodoHandler" command="_gzYDgJU0EeO1qdc5Twk7FQ"/>
   <handlers xmi:id="_ZudZ0JU1EeO1qdc5Twk7FQ" elementId="com.example.e4.rcp.todo.handler.remove" contributionURI="bundleclass://com.example.e4.rcp.todo/com.example.e4.rcp.todo.handlers.RemoveTodoHandler" command="_kCIegJU0EeO1qdc5Twk7FQ"/>
   <handlers xmi:id="_dFKP4JU1EeO1qdc5Twk7FQ" elementId="com.example.e4.rcp.todo.handler.test" contributionURI="bundleclass://com.example.e4.rcp.todo/com.example.e4.rcp.todo.handlers.TestHandler" command="_n8dmEJU0EeO1qdc5Twk7FQ"/>
+  <bindingTables xmi:id="_Z37L8JVCEeO1qdc5Twk7FQ" elementId="com.example.e4.rcp.todo.bindingtable.0" bindingContext="_YPAtYJVCEeO1qdc5Twk7FQ">
+    <bindings xmi:id="_btzvgJVCEeO1qdc5Twk7FQ" elementId="com.example.e4.rcp.todo.keybinding.save" keySequence="M1+S" command="_ULTvwJU0EeO1qdc5Twk7FQ"/>
+  </bindingTables>
+  <rootContext xmi:id="_YPAtYJVCEeO1qdc5Twk7FQ" elementId="com.example.e4.rcp.todo.bindingcontext.0" name="Windows and Dialogs"/>
   <commands xmi:id="_ULTvwJU0EeO1qdc5Twk7FQ" elementId="org.eclipse.ui.file.saveAll" commandName="Save"/>
   <commands xmi:id="_fFDggJU0EeO1qdc5Twk7FQ" elementId="org.eclipse.ui.file.exit" commandName="Exit"/>
   <commands xmi:id="_gzYDgJU0EeO1qdc5Twk7FQ" elementId="com.example.e4.rcp.todo.command.new" commandName="New Todo"/>
