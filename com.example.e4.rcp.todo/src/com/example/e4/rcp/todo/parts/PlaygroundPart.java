@@ -56,4 +56,5 @@ public class PlaygroundPart {
 	public void onFocus() {
 		text.setFocus();
 	}
+
 }
